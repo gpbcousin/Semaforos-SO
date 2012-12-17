@@ -1,7 +1,9 @@
 Semaforos-SO
 ============
 
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Trabalho de Sistemas Operacionais
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 Integrantes:
 Giovane Torres
