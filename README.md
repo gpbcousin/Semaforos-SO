@@ -1,6 +1,6 @@
 Semaforos-SO
 ============
-
+Nome Do gurpo: G2M2
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Trabalho de Sistemas Operacionais
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
