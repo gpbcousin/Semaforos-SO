@@ -1,4 +1,4 @@
-<h1>Semaforos-SO</h1><br />
+<h2>Semaforos-SO</h2>
 // ------------------------------------------------------------------------<br />
 //  Trabalho Sistemas Operacionais I<br />
 //<br />
