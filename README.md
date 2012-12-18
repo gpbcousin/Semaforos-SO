@@ -1,4 +1,4 @@
-Semaforos-SO<br />
+<h1>Semaforos-SO</h1><br />
 <br />
 // ------------------------------------------------------------------------<br />
 //  Trabalho Sistemas Operacionais I<br />
@@ -9,7 +9,4 @@ Semaforos-SO<br />
 // ------------------------------------------------------------------------
 
 
-O trabalho consiste na implementação de um semáforo utilizando primitivas<br />
-atômicas. Este é um trabalho desenvolvido para a disciplina de Sistemas<br />
-Operacionais I do curso de Ciência da Computação da Universidade Federal<br />
-de Pelotas.<br />
+O trabalho consiste na implementação de um semáforo utilizando primitivas atômicas. Este é um trabalho desenvolvido para a disciplina de Sistemas Operacionais I do curso de Ciência da Computação da Universidade Federal de Pelotas.<br />
